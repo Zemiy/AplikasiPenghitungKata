@@ -1,0 +1,8 @@
+Teks:
+ini adalah latihan
+
+Hasil Perhitungan:
+Jumlah Kata: Jumlah Kata: 3
+Jumlah Karakter: Jumlah Karakter: 18
+Jumlah Kalimat: Jumlah Kalimat: 1
+Jumlah Paragraf: Jumlah Paragraf: 1
